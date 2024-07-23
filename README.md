@@ -1,4 +1,4 @@
-# Presentation on Blender and 3D Graphics at 2024 IAU General Assembly, Cape Town
+# Presentation on Blender and 3D Graphics at the 2024 IAU General Assembly, Cape Town
 
 [https://astronomy2024.org/](https://astronomy2024.org/)
 # August 2024
