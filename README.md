@@ -1,8 +1,8 @@
-# Presentation on Blender and 3D Graphics at the 2024 IAU General Assembly, Cape Town
+# Presentation on Blender and 3D Graphics at the 2025 AAS
 
 [https://astronomy2024.org/](https://astronomy2024.org/)
-# August 2024
-Tutorials for the Cape Town IAU
+# January 2025
+Tutorials for the AAS
 
 Dr. Brian R. Kent, Director of Science Communications
 
@@ -11,8 +11,6 @@ Scientist, National Radio Astronomy Observatory
 https://www.cv.nrao.edu/~bkent/
 
 Demo video: https://www.youtube.com/watch?v=L0Vpju5Mwig
-
-IAU Conference website: https://astronomy2024.org/
 
 # Blender resources
 
